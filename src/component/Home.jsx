@@ -7,6 +7,7 @@ const Home = () => {
   return (
     <>
     <Main/>
+      hi
     <Row title="Up Coming" fetchURL={request.requestHorror}/>
     <Row title="Popularity" fetchURL={request.requestTopSearch}/>
     <Row title="Trending" fetchURL={request.requestTrending}/>
