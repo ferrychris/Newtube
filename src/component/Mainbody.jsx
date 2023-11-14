@@ -20,7 +20,7 @@ const Main = () => {
 
     return (
         <>
-{/*             <div className="w-full h-[550px]">
+            <div className="w-full h-[550px]">
                 <div className="w-full h-full">
                     <div className="absolute w-full h-[95%] bg-gradient-to-r from-black"></div>
                     <img className="object-fit h-[100%] w-full" src={`https://image.tmdb.org/t/p/original${arrange.backdrop_path}`} />
@@ -36,7 +36,7 @@ const Main = () => {
                         </div>
                     </div>
                 </div>
-            </div> */}
+            </div>
 
         </>
 
